@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+span {
+  margin: 20px;
+}
+
+.label {
+  display: inline-block;
+  width: 120px;
+}
+
+polyline{
+    stroke-width: 2px;
+    fill: none;
+}
